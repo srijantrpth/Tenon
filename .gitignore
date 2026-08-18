@@ -1,0 +1,6 @@
+# Exclude the local SQLite database
+*.sqlite3
+
+# Exclude compiled Python files
+__pycache__/
+*.pyc
